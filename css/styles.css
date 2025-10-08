@@ -63,11 +63,6 @@ h3 {
   line-height: 21px;
   text-align: middle;
   text-transform: uppercase;
-  text-decoration: none;
-}
-
-.title {
-  background-color: #2e2f42;
 }
 
 .page-nav .link {
@@ -80,7 +75,6 @@ h3 {
   letter-spacing: 0.02em;
   line-height: 24px;
   text-decoration: none;
-  list-style: none;
 }
 
 .page-nav .link:hover {
@@ -93,7 +87,6 @@ h3 {
   letter-spacing: 0.02em;
   line-height: 24px;
   text-decoration: none;
-  list-style: none;
 }
 
 .page-nav .link:active {
@@ -105,7 +98,6 @@ h3 {
   letter-spacing: 0.02em;
   line-height: 24px;
   text-decoration: none;
-  list-style: none;
 }
 
 .address .link {
@@ -115,6 +107,7 @@ h3 {
   font-size: 14px;
   letter-spacing: 0.02em;
   line-height: 20px;
+  text-decoration: none;
 }
 
 .address .link:hover {
@@ -124,9 +117,10 @@ h3 {
   font-size: 14px;
   letter-spacing: 0.02em;
   line-height: 20px;
+  text-decoration: none;
 }
 
-button {
+.button {
   font-family: "roboto", sans-serif;
   font-weight: 600;
   color: #ffffff;
@@ -136,9 +130,10 @@ button {
   line-height: 4%;
   text-align: middle;
   cursor: pointer;
+  text-decoration: none;
 }
 
-button:hover {
+.button:hover {
   font-family: "roboto", sans-serif;
   font-weight: 600;
   color: #ffffff;
@@ -147,9 +142,11 @@ button:hover {
   line-height: 4%;
   text-align: middle;
   cursor: pointer;
+  background-color: #404ddf;
+  text-decoration: none;
 }
 
-button:active {
+.button:active {
   font-family: "roboto", sans-serif;
   font-weight: 600;
   color: #ffffff;
@@ -158,6 +155,24 @@ button:active {
   line-height: 4%;
   text-align: middle;
   cursor: pointer;
+  background-color: #2e2f42;
+  text-decoration: none;
+}
+
+.title {
+  background-color: #2e2f42;
+}
+
+.services {
+  text-decoration: none;
+}
+
+.team {
+  text-decoration: none;
+}
+
+.portfolio {
+  text-decoration: none;
 }
 
 footer {
