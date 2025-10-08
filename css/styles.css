@@ -65,6 +65,10 @@ h3 {
   text-decoration: none;
 }
 
+.link {
+  text-decoration: none;
+}
+
 .page-nav .link {
   font-family: "roboto", sans-serif;
   font-weight: 500;
@@ -168,6 +172,7 @@ h3 {
 }
 
 .team {
+  background-color: #f4f4fd;
   list-style: none;
 }
 
