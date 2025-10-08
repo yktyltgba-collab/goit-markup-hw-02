@@ -62,7 +62,7 @@ h3 {
   text-transform: uppercase;
 }
 
-gi a {
+a {
   text-decoration: none;
 }
 
@@ -155,7 +155,7 @@ gi a {
 }
 
 .portfolio {
-  text-decoration: none;
+  list-style: none;
 }
 
 footer {
