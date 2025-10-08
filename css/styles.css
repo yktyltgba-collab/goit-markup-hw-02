@@ -4,7 +4,7 @@ body {
   color: #434455;
   font-size: 16px;
   letter-spacing: 0.02em;
-  line-height: 24px;
+  line-height: 1.5%;
 }
 
 h1 {
@@ -14,7 +14,7 @@ h1 {
   background-color: #2e2f42;
   font-size: 56px;
   letter-spacing: 0.02em;
-  line-height: 60px;
+  line-height: 1%;
   text-align: center;
 }
 
@@ -25,7 +25,7 @@ h2 {
   background-color: #ffffff;
   font-size: 36px;
   letter-spacing: 0.02em;
-  line-height: 40px;
+  line-height: 1.1%;
   text-align: center;
 }
 
@@ -37,7 +37,7 @@ h3 {
   background-color: #ffffff;
   font-size: 20px;
   letter-spacing: 0.02em;
-  line-height: 24px;
+  line-height: 1.2%;
 }
 
 .logo-web {
@@ -46,7 +46,7 @@ h3 {
   color: #4d5ae5;
   font-size: 18px;
   letter-spacing: 0.03em;
-  line-height: 21px;
+  line-height: 1.16%;
   text-align: middle;
   text-transform: uppercase;
 }
@@ -57,7 +57,7 @@ h3 {
   color: #2e2f42;
   font-size: 18px;
   letter-spacing: 0.03em;
-  line-height: 21px;
+  line-height: 1.16%;
   text-align: middle;
   text-transform: uppercase;
 }
@@ -74,7 +74,7 @@ a {
   background-color: #ffffff;
   font-size: 16px;
   letter-spacing: 0.02em;
-  line-height: 24px;
+  line-height: 1, 5%;
 }
 
 .page-nav .link:hover {
@@ -85,7 +85,7 @@ a {
   background-color: #ffffff;
   font-size: 16px;
   letter-spacing: 0.02em;
-  line-height: 24px;
+  line-height: 1, 5%;
 }
 
 .page-nav .link:active {
@@ -95,7 +95,17 @@ a {
   background-color: #ffffff;
   font-size: 16px;
   letter-spacing: 0.02em;
-  line-height: 24px;
+  line-height: 1, 5%;
+}
+
+.address {
+  font-family: "roboto", sans-serif;
+  font-weight: 400;
+  color: #2e2f42;
+  background-color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0.02em;
+  line-height: 1, 4%;
 }
 
 .address .link {
@@ -105,7 +115,7 @@ a {
   background-color: #ffffff;
   font-size: 14px;
   letter-spacing: 0.02em;
-  line-height: 20px;
+  line-height: 1, 4%;
 }
 
 .address .link:hover {
@@ -115,7 +125,7 @@ a {
   background-color: #ffffff;
   font-size: 14px;
   letter-spacing: 0.02em;
-  line-height: 20px;
+  line-height: 1, 4%;
 }
 
 .button {
