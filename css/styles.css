@@ -74,7 +74,7 @@ h3 {
   font-size: 16px;
   letter-spacing: 0.02em;
   line-height: 24px;
-  text-decoration: none;
+  list-style: none;
 }
 
 .page-nav .link:hover {
@@ -86,7 +86,7 @@ h3 {
   font-size: 16px;
   letter-spacing: 0.02em;
   line-height: 24px;
-  text-decoration: none;
+  list-style: none;
 }
 
 .page-nav .link:active {
@@ -97,7 +97,7 @@ h3 {
   font-size: 16px;
   letter-spacing: 0.02em;
   line-height: 24px;
-  text-decoration: none;
+  list-style: none;
 }
 
 .address .link {
@@ -164,11 +164,11 @@ h3 {
 }
 
 .services {
-  text-decoration: none;
+  list-style: none;
 }
 
 .team {
-  text-decoration: none;
+  list-style: none;
 }
 
 .portfolio {
