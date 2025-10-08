@@ -63,6 +63,11 @@ h3 {
   line-height: 21px;
   text-align: middle;
   text-transform: uppercase;
+  text-decoration: none;
+}
+
+.title {
+  background-color: #2e2f42;
 }
 
 .page-nav .link {
@@ -74,6 +79,8 @@ h3 {
   font-size: 16px;
   letter-spacing: 0.02em;
   line-height: 24px;
+  text-decoration: none;
+  list-style: none;
 }
 
 .page-nav .link:hover {
@@ -85,6 +92,8 @@ h3 {
   font-size: 16px;
   letter-spacing: 0.02em;
   line-height: 24px;
+  text-decoration: none;
+  list-style: none;
 }
 
 .page-nav .link:active {
@@ -95,11 +104,12 @@ h3 {
   font-size: 16px;
   letter-spacing: 0.02em;
   line-height: 24px;
+  text-decoration: none;
+  list-style: none;
 }
 
 .address .link {
   font-family: "roboto", sans-serif;
-  font-weight: 400;
   color: #2e2f42;
   background-color: #ffffff;
   font-size: 14px;
@@ -109,7 +119,6 @@ h3 {
 
 .address .link:hover {
   font-family: "roboto", sans-serif;
-  font-weight: 400;
   color: #4d5ae5;
   background-color: #ffffff;
   font-size: 14px;
@@ -117,7 +126,19 @@ h3 {
   line-height: 20px;
 }
 
-.button {
+button {
+  font-family: "roboto", sans-serif;
+  font-weight: 600;
+  color: #ffffff;
+  background-color: #4d5ae5;
+  font-size: 16px;
+  letter-spacing: 1em;
+  line-height: 4%;
+  text-align: middle;
+  cursor: pointer;
+}
+
+button:hover {
   font-family: "roboto", sans-serif;
   font-weight: 600;
   color: #ffffff;
@@ -128,7 +149,7 @@ h3 {
   cursor: pointer;
 }
 
-.button:hover {
+button:active {
   font-family: "roboto", sans-serif;
   font-weight: 600;
   color: #ffffff;
@@ -139,22 +160,6 @@ h3 {
   cursor: pointer;
 }
 
-.button:active {
-  font-family: "roboto", sans-serif;
-  font-weight: 600;
-  color: #ffffff;
-  font-size: 16px;
-  letter-spacing: 1em;
-  line-height: 4%;
-  text-align: middle;
-  cursor: pointer;
-}
-
-.body-medium {
-  font-family: "roboto", sans-serif;
-  font-weight: 400;
-  color: #434455;
-  font-size: 16px;
-  letter-spacing: 1em;
-  line-height: 4%;
+footer {
+  background-color: #2e2f42;
 }
