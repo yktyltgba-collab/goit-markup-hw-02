@@ -4,7 +4,7 @@ body {
   color: #434455;
   font-size: 16px;
   letter-spacing: 0.02em;
-  line-height: 24px;
+  line-height: 1.5;
 }
 
 h1 {
@@ -25,7 +25,7 @@ h2 {
   background-color: #ffffff;
   font-size: 36px;
   letter-spacing: 0.02em;
-  line-height: 40px;
+  line-height: 1.1;
   text-align: center;
 }
 
@@ -36,7 +36,7 @@ h3 {
   color: #2e2f42;
   font-size: 20px;
   letter-spacing: 0.02em;
-  line-height: 24px;
+  line-height: 1.2;
 }
 
 .logo-web {
@@ -56,7 +56,7 @@ h3 {
   color: #ffffff;
   font-size: 18px;
   letter-spacing: 0.03em;
-  line-height: 21px;
+  line-height: 1.16;
   text-align: middle;
   text-transform: uppercase;
 }
@@ -70,43 +70,32 @@ ul {
 }
 
 .page-nav {
+  font-weight: 500;
   color: #2e2f42;
   background-color: #ffffff;
   font-size: 16px;
   letter-spacing: 0.02em;
-  line-height: 24px;
+  line-height: 1.5;
 }
 
 .page-nav .link {
-  font-family: "roboto", sans-serif;
   font-weight: 500;
-  font-style: medium;
   color: #2e2f42;
   background-color: #ffffff;
   font-size: 16px;
   letter-spacing: 0.02em;
-  line-height: 24px;
+  line-height: 1.5;
 }
 
 .page-nav .link:hover {
-  font-family: "roboto", sans-serif;
-  font-weight: 500;
-  font-style: medium;
   color: #404ddf;
   background-color: #ffffff;
-  font-size: 16px;
-  letter-spacing: 0.02em;
-  line-height: 24px;
 }
 
 .page-nav .link:active {
-  font-family: "roboto", sans-serif;
   font-weight: 500;
   color: #404ddf;
   background-color: #ffffff;
-  font-size: 16px;
-  letter-spacing: 0.02em;
-  line-height: 24px;
 }
 
 .address .link {
