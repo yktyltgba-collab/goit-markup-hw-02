@@ -69,6 +69,14 @@ ul {
   list-style-type: none;
 }
 
+.page-nav {
+  color: #2e2f42;
+  background-color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0.02em;
+  line-height: 24px;
+}
+
 .page-nav .link {
   font-family: "roboto", sans-serif;
   font-weight: 500;
@@ -142,7 +150,6 @@ ul {
   cursor: pointer;
   background-color: #404ddf;
 }
-
 
 .title {
   background-color: #2e2f42;
