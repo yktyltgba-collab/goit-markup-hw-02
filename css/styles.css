@@ -80,7 +80,7 @@ ul {
   list-style-type: none;
 }
 
-.page-nav {
+.nav-list {
   font-weight: 500;
   color: #2e2f42;
   background-color: #ffffff;
@@ -100,13 +100,10 @@ ul {
 
 .nav-list .link:hover {
   color: #404ddf;
-  background-color: #ffffff;
 }
 
 .nav-list .link:active {
-  font-weight: 500;
   color: #404ddf;
-  background-color: #ffffff;
 }
 
 .contacts .link {
@@ -120,13 +117,7 @@ ul {
 }
 
 .contacts .link:hover {
-  font-family: "roboto", sans-serif;
-  font-weight: 400;
   color: #4d5ae5;
-  background-color: #ffffff;
-  font-size: 14px;
-  letter-spacing: 0.02em;
-  line-height: 20px;
 }
 
 .button {
